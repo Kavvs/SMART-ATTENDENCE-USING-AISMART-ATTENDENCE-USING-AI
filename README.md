@@ -69,7 +69,7 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 
 ## Contact
 
-For any questions, contact [harshpandey472@gmail.com].
+For any questions, contact [kavsappu67@gmail.com].
 ```
 
 In this version, the sections for installing dependencies, building the executable, and running the application have been consolidated under the "Installation and Setup" heading. This makes it easier for users to follow a single set of instructions for getting the project up and running. Adjust the placeholders for GitHub username, repository name, and contact information as needed.
